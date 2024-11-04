@@ -1,2 +1,2 @@
-# NET_GameStore
-Demo for 'ASP.NET Core Full Course For Beginners'
+# .NET
+1/ Demo for 'ASP.NET Core Full Course For Beginners'
